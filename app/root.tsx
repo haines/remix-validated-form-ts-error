@@ -1,3 +1,5 @@
+import "remix-validated-form";
+
 import type { MetaFunction } from "@remix-run/node";
 import {
   Links,
